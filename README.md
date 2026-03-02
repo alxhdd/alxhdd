@@ -45,18 +45,18 @@ When I'm away from the code, I'm *still* a massive nerd. You will usually find m
 
 ### 📊 The Stats
 
-[![Aleksa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alxhdd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/alxhdd)
+[![Aleksa's GitHub Streak](https://streak-stats.demolab.com?user=alxhdd&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alxhdd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/alxhdd)
+<br>
 
 ---
 
 <div align="center">
   
   *Socials:*
-  <br>
+  <br><br>
   <a href="https://www.linkedin.com/in/aleksandra-haddad/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/badgirlcodes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://medium.com/@alxhdd"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://twitter.com/badgirlcodes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 </div>
