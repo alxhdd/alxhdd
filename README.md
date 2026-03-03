@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aleksa+👋" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&letterSpacing=&pause=5000&color=FF4081&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aleksa+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <p align="center">
   <b>Ex-founder, full-stack dev, and unapologetic automation addict. I love the absolute freedom that code gives—there is nothing better than creating and pushing things out into the wild.</b>
