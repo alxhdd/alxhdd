@@ -15,7 +15,7 @@ I've worn a lot of hats: managed cloud infra, shipped full-scale apps, successfu
 
 AI is my current bestie; I can focus on solving complex problems and delegate the repetitive work to my personal assistant. If I can automate something, best believe I have a script somewhere. 
 
-When I'm away from the code, I'm *still* a massive nerd. You will usually find me hanging out with my dogs, watching anime, or pushing keys in WoW. I treat my tech stack the same way I treat my Pokémon team—solid basics with a sprinkle of novelty.
+When I'm away from the code, I'm *still* a massive nerd. You will usually find me hanging out with my dogs, watching anime, or pushing keys in WoW. Occasionally I'll externalise my thouhgts on Medium. 
 <br>
 
 ### 🛠️ Stack 
